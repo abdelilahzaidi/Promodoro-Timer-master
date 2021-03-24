@@ -1,0 +1,115 @@
+body
+{
+    background-color: #869acc;
+
+}
+
+
+
+main
+{
+    width:800px;
+    height: 400px;
+    background-color: #37415C;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Timer
+{
+   
+   
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: auto;
+        
+        border-radius: 2% 2%;
+        font-size: 9rem;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+       
+        font-family: arial, sans-serif;
+        width: 600px;
+        height:150px;
+        background-color: #b1c0e9;
+    
+   
+}
+.Titre
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    
+    border-radius: 2% 2%;
+    font-size: 1.5rem;
+   
+    color:white;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+   
+    font-family: arial, sans-serif;
+    width: 600px;
+    height:50px;
+    background-color: #b1c0e9;
+    text-align: center;
+}
+
+.TitreTask
+{
+    margin-right: auto;
+    margin-left:auto ;
+}
+
+.BtnGroupes
+{
+    height: 50px;
+    background-color: #37415C;
+    text-align: center;
+    padding-top: 10px;
+   
+}
+
+
+
+
+
+button
+{
+    font-size: 16px;
+    height: 28px;
+    width:200px;
+    cursor: pointer;
+    box-shadow: none;
+    font-weight: 300;
+   
+    border: 1px solid transparent;
+    margin-right: 100px;
+    margin-left: 100px;
+    border-radius: 4px;
+    color: azure;
+    background-color: #0c0e13;
+
+}
+
+.TitreFooter
+{
+    color:white;
+ 
+   
+}
+footer
+{
+    margin-right: auto;
+    margin-left: auto; 
+    text-align: center;
+    width: auto;
+    font-size: 3.5rem;
+  
+}
